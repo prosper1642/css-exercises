@@ -1,0 +1,15 @@
+.class{
+    color: white;
+    background: black;
+}
+
+.class2{
+    background: yellow;
+}
+.class , .class2 { 
+    font-size: 28px;
+    font-family: Helvetica  "Times New Roman" sans-serif;
+}
+button{
+    font-size: 28px;
+}

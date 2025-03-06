@@ -1,0 +1,15 @@
+.class{
+    font-family: Verdana "DejaVu Sans"  sans-serif ;
+    background: rgb(255, 204, 203);
+}
+
+#second{
+    font-size: 36px;
+    color: blue;
+}
+
+div{
+    font-size: 24px;
+    font-weight: bold;
+    background: rgb(136, 213, 136);
+}
